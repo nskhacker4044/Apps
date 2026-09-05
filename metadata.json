@@ -1,0 +1,6 @@
+{
+  "name": "Tap Away Arrows",
+  "description": "A 3D-styled 2D puzzle experience of directional arrow puzzles with reverse topological solvability, golden score trajectories, and brain training levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
